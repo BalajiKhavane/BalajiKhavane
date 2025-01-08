@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji Khavane</h1>
 <h3 align="center"> Prefinal Year Student, Data Analytics Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" 
+<img align="right" alt="coding" width="350" 
      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN2Zm45Z2oxbGI4cDN3OTVvOWNjbHVrcTh4OHA3c3k0Y2RzOHVyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajikhavane&label=Profile%20views&color=0e75b6&style=flat" alt="balajikhavane" /> </p>
